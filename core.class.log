@@ -1,0 +1,2464 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115071692@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C4D7CDBC362CEDA31D',
+    participant: undefined
+  },
+  messageTimestamp: 1714261304,
+  pushName: 'FRH',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573115071692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115071692@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0466C01E6301EFA2968',
+    participant: undefined
+  },
+  messageTimestamp: 1714261310,
+  pushName: 'FRH',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573115071692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115071692@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08B5CED9BA2453C36B4',
+    participant: undefined
+  },
+  messageTimestamp: 1714261315,
+  pushName: 'FRH',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573115071692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f9126da2-6f18-46be-8e55-f50187a4d411',
+  keyword: 'key_7aecc39a-5bc5-4c0b-b4ca-a226404de32b',
+  answer: '😎 *Nuestro contacto - Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a44f07d8ee826d57ff95ba0c335af0a6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33561dd5-f5ef-42e2-820c-1df88b398f2e',
+  keyword: 'ans_f9126da2-6f18-46be-8e55-f50187a4d411',
+  answer: 'Para más información contáctanos a:\n' +
+    '\n' +
+    '📱 Teléfono  412-6523705\n' +
+    '🌐 Instagram:@farina.sc\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d5b65d1a37a7b6afb7e2867078fb3e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115071692@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C12B703C8D61D8DCBF',
+    participant: undefined
+  },
+  messageTimestamp: 1714261322,
+  pushName: 'FRH',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573115071692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f391c3eb-688e-43bf-9ad7-1df60c27cf18',
+  keyword: 'key_59760339-ab12-4ba2-adf3-705b28412296',
+  answer: '😎 INFORMACIÓN CHATBOT FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'aacfebb345ba6cbf1046b5b78a5f978b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ceb70420-7ab7-445e-a682-b34d384f08f0',
+  keyword: 'ans_f391c3eb-688e-43bf-9ad7-1df60c27cf18',
+  answer: 'Steve & Bot',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/wUZDB7NohiP2.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '728c15b75c2ee1bfe60affc72ad190be'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_20fe20b4-96e9-406a-806a-b07fde94ce05',
+  keyword: 'ans_ceb70420-7ab7-445e-a682-b34d384f08f0',
+  answer: '\n' +
+    'ChatBot Farina Ver. 1.0\n' +
+    '\n' +
+    'Esperamos que haya sido de su ayuda la implementación de esta utilidad para atender anuestros clientes\n' +
+    'Es nuestro norte y convicción el desarrollar herramientas informáticas de última generación y con implementación de IA\n' +
+    '\n' +
+    'Un cordial saludo a nombre del equipo de Panadería Farina\n' +
+    'Derechos reservados por FarinaGroup ©️ 2024 - .:FRH:.\n' +
+    '\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c6d52e517ab20ebd27b8c60d6aa2dc5a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115071692@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0500677CC24661316EC',
+    participant: undefined
+  },
+  messageTimestamp: 1714261328,
+  pushName: 'FRH',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573115071692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573132755400@s.whatsapp.net',
+    fromMe: false,
+    id: 'E90C4929D446A5376C4E20F55A3E1BA7',
+    participant: undefined
+  },
+  messageTimestamp: 1714261903,
+  pushName: 'Karolina Espinoza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573132755400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573132755400@s.whatsapp.net',
+    fromMe: false,
+    id: '1AE812ED9A0295FB9A8424C7016BF69C',
+    participant: undefined
+  },
+  messageTimestamp: 1714261915,
+  pushName: 'Karolina Espinoza',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573132755400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_65098eee-c11b-40fd-a9c8-6fca0ed1fe99',
+  keyword: 'key_aed612ed-90b6-4fb4-8032-371a51235a0e',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '14e521524d6d0248a52be11e245f7232'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904b6e66-93cf-4e27-9cbe-b78851ffcd85',
+  keyword: 'ans_66e12e5b-608e-481c-857d-007aa65d91a5',
+  answer: '*🍔 Pan de Hamburguesa - 1$, 4.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/Ude3uhuRvvo2.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef1825b047b7bee0f95c0b6b3e22b775'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b24e6bdc-b9e0-4f6c-8775-ef67e41f54a5',
+  keyword: 'ans_904b6e66-93cf-4e27-9cbe-b78851ffcd85',
+  answer: '*🫓 Pan Pita - 1$, 4.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/TpgyeuaqvhYr.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fe049c784f644fc76e7a5282cd421f4a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7b2ac47-b03a-4462-aeae-83c421e3c7a8',
+  keyword: 'ans_b24e6bdc-b9e0-4f6c-8775-ef67e41f54a5',
+  answer: '*🌭 Pan de Perro - 1.5 $, 6.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/IPn9rulNd2dQ.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3bf294b5d7da23ea219559ae895455c0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f870f5c6-b448-4fe6-974b-c3848eb93b6f',
+  keyword: 'ans_e7b2ac47-b03a-4462-aeae-83c421e3c7a8',
+  answer: '*🥖 Pan Granjero - 1$, 4.000 cop*',
+  options: {
+    media: 'https://i.ibb.co/rvM30Ck/pan-granjero.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15ade01c4c8ab0a5652d9eeb156ae382'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b0dcb52-5cc2-4fb4-af3f-4b1afe0cfa21',
+  keyword: 'ans_f870f5c6-b448-4fe6-974b-c3848eb93b6f',
+  answer: '*🥖🎄 Pan de Jamón*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/Gjy1ONwKtxEx.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5f91174865cd98cc65ad5c22e32879a2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e18074eb-c213-4943-ac12-c167605db3bd',
+  keyword: 'ans_6b0dcb52-5cc2-4fb4-af3f-4b1afe0cfa21',
+  answer: '*🎂 Tortas Tradicionales*',
+  options: {
+    media: 'https://i.ibb.co/2Fxtk6n/torta.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '69178ff0e0134dfba6f82aa41e5ea51d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f289bab5-075e-45a6-a347-7abecb60ffa0',
+  keyword: 'ans_e18074eb-c213-4943-ac12-c167605db3bd',
+  answer: '📢 Escribe *pedido* para ordenar ó escribe *menú* para ir a principal!!! ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a092e243b5430ba04016ecd4c4bb0c19'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573132755400@s.whatsapp.net',
+    fromMe: false,
+    id: 'E65F5548347409DB6C01671D713680B7',
+    participant: undefined
+  },
+  messageTimestamp: 1714261924,
+  pushName: 'Karolina Espinoza',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573132755400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: 'F699C1DE4EED5DD94B3685329065526E',
+    participant: undefined
+  },
+  messageTimestamp: 1714262279,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  keyword: 'key_032135a7-911c-4866-8ee9-37ce7b188628',
+  answer: '😎 INFORMACIÓN FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5e7e6a55c37ddb5355daf43f9e9b2fd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  keyword: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  answer: '*TRADICIÓN EN SU MESA*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/FS5UtHguuXFk.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '91ae56775199e658b5931f88ac3ce306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5e707c5-d30f-49ae-8b99-ecd393e744ee',
+  keyword: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  answer: '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    'La tradición de hacer pan en Italia🇮🇹 se remonta a miles de años atrás, \n' +
+    'con raíces en las civilizaciones etrusca, griega y romana. A lo largo de la historia,\n' +
+    'el pan ha sido un alimento básico en la dieta italiana y ha desempeñado un papel fundamental\n' +
+    'en la cultura y las costumbres del país.\n' +
+    'Es por ello que en FARINA, nos hemos esforzado en traerles la tradición en la elaboración\n' +
+    'del mejor pan de la región tachirénse.\n' +
+    'Pan de excelencia, elaborado con las mejores materias primas y el arte de nuestros maestros panaderos:\n' +
+    'Por ello podemos decir:\n' +
+    '🌟 *La tradición en cada mordisco: pan🥖 artesanal hecho con amor❤️ y pasión* 🌟\n' +
+    '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '769ad9e18ffc8fdeecb64fef321211e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: '2DF8CC4C3BC72F597DE782FE06BCF32E',
+    participant: undefined
+  },
+  messageTimestamp: 1714262290,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bf64d456-7052-4015-89a4-d3770b710d3c',
+  keyword: 'key_14df20eb-6176-4945-8bd0-ede15459ccb9',
+  answer: '😎 INFORMACIÓN UBUCACION FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4b7baa921c8e400c629e0e7a99da7527'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57a25e07-1a33-4e16-b33d-ace4a5b6773f',
+  keyword: 'ans_bf64d456-7052-4015-89a4-d3770b710d3c',
+  answer: 'Farina Pan Artesanal\n' +
+    '\n' +
+    ' 🗺️ *No1 vereda 12, Av. Principal Unidad Vecinal* 🗺️\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5e50ada0e0aebf2f1583b951a3a9108'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: '72D886D5085BCB5BEA9F3409EE64F672',
+    participant: undefined
+  },
+  messageTimestamp: 1714262297,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_65098eee-c11b-40fd-a9c8-6fca0ed1fe99',
+  keyword: 'key_aed612ed-90b6-4fb4-8032-371a51235a0e',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '14e521524d6d0248a52be11e245f7232'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904b6e66-93cf-4e27-9cbe-b78851ffcd85',
+  keyword: 'ans_66e12e5b-608e-481c-857d-007aa65d91a5',
+  answer: '*🍔 Pan de Hamburguesa - 1$, 4.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/Ude3uhuRvvo2.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef1825b047b7bee0f95c0b6b3e22b775'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b24e6bdc-b9e0-4f6c-8775-ef67e41f54a5',
+  keyword: 'ans_904b6e66-93cf-4e27-9cbe-b78851ffcd85',
+  answer: '*🫓 Pan Pita - 1$, 4.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/TpgyeuaqvhYr.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fe049c784f644fc76e7a5282cd421f4a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7b2ac47-b03a-4462-aeae-83c421e3c7a8',
+  keyword: 'ans_b24e6bdc-b9e0-4f6c-8775-ef67e41f54a5',
+  answer: '*🌭 Pan de Perro - 1.5 $, 6.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/IPn9rulNd2dQ.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3bf294b5d7da23ea219559ae895455c0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f870f5c6-b448-4fe6-974b-c3848eb93b6f',
+  keyword: 'ans_e7b2ac47-b03a-4462-aeae-83c421e3c7a8',
+  answer: '*🥖 Pan Granjero - 1$, 4.000 cop*',
+  options: {
+    media: 'https://i.ibb.co/rvM30Ck/pan-granjero.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15ade01c4c8ab0a5652d9eeb156ae382'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b0dcb52-5cc2-4fb4-af3f-4b1afe0cfa21',
+  keyword: 'ans_f870f5c6-b448-4fe6-974b-c3848eb93b6f',
+  answer: '*🥖🎄 Pan de Jamón*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/Gjy1ONwKtxEx.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5f91174865cd98cc65ad5c22e32879a2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e18074eb-c213-4943-ac12-c167605db3bd',
+  keyword: 'ans_6b0dcb52-5cc2-4fb4-af3f-4b1afe0cfa21',
+  answer: '*🎂 Tortas Tradicionales*',
+  options: {
+    media: 'https://i.ibb.co/2Fxtk6n/torta.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '69178ff0e0134dfba6f82aa41e5ea51d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f289bab5-075e-45a6-a347-7abecb60ffa0',
+  keyword: 'ans_e18074eb-c213-4943-ac12-c167605db3bd',
+  answer: '📢 Escribe *pedido* para ordenar ó escribe *menú* para ir a principal!!! ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a092e243b5430ba04016ecd4c4bb0c19'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: '7392922AA058F62FE4D991F123C6B087',
+    participant: undefined
+  },
+  messageTimestamp: 1714262362,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573124089995@s.whatsapp.net',
+    fromMe: false,
+    id: '119B62FF36D10002A36C999A193A524F',
+    participant: undefined
+  },
+  messageTimestamp: 1714262503,
+  pushName: '📵💻💻💻💻',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573124089995'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573124089995@s.whatsapp.net',
+    fromMe: false,
+    id: '119B62FF36D10002A36C999A193A524F',
+    participant: undefined
+  },
+  messageTimestamp: 1714262504,
+  pushName: '📵💻💻💻💻',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'buenqs',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenqs',
+  from: '573124089995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e1aeba1-707f-44f5-a067-3f5fb2398b60',
+  keyword: 'key_a2674f58-22a0-4a5a-9558-af13de743efa',
+  answer: 'Hola!!! El ChatBot de Farina dice:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e9d6d94336bff4608df2c919693271f5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573124089995@s.whatsapp.net',
+    fromMe: false,
+    id: '6A54D2B333B890EB5FE7DF8C75386A61',
+    participant: undefined
+  },
+  messageTimestamp: 1714262515,
+  pushName: '📵💻💻💻💻',
+  broadcast: false,
+  message: Message {
+    conversation: 'buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenas',
+  from: '573124089995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE8FAAA16B0CD37C43EF2B63921CFB45',
+    participant: undefined
+  },
+  messageTimestamp: 1714262624,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: '516961243DCCAEB0E47872E3335FB8F8',
+    participant: undefined
+  },
+  messageTimestamp: 1714262641,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f9126da2-6f18-46be-8e55-f50187a4d411',
+  keyword: 'key_7aecc39a-5bc5-4c0b-b4ca-a226404de32b',
+  answer: '😎 *Nuestro contacto - Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a44f07d8ee826d57ff95ba0c335af0a6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33561dd5-f5ef-42e2-820c-1df88b398f2e',
+  keyword: 'ans_f9126da2-6f18-46be-8e55-f50187a4d411',
+  answer: 'Para más información contáctanos a:\n' +
+    '\n' +
+    '📱 Teléfono  412-6523705\n' +
+    '🌐 Instagram:@farina.sc\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d5b65d1a37a7b6afb7e2867078fb3e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584126523705@s.whatsapp.net',
+    fromMe: false,
+    id: '3A57065CB105C7BD19AE',
+    participant: undefined
+  },
+  messageTimestamp: 1714263123,
+  pushName: 'Annalisa Ortolani',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584126523705'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: 'A158B5B1D26678240BCA7CA773B78FDD',
+    participant: undefined
+  },
+  messageTimestamp: 1714263212,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584147064876@s.whatsapp.net',
+    fromMe: false,
+    id: '608A4B1B9CE830B9E50DA5C3D36F53F8',
+    participant: undefined
+  },
+  messageTimestamp: 1714263226,
+  pushName: 'Jose Hernandez',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584147064876'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140300024@s.whatsapp.net',
+    fromMe: false,
+    id: '370E956B2A1946BCB87390CD95BD8891',
+    participant: undefined
+  },
+  messageTimestamp: 1714264211,
+  pushName: 'contrerascesaralexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Torta tradicional',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Torta tradicional',
+  from: '584140300024'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  keyword: 'key_032135a7-911c-4866-8ee9-37ce7b188628',
+  answer: '😎 INFORMACIÓN FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5e7e6a55c37ddb5355daf43f9e9b2fd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  keyword: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  answer: '*TRADICIÓN EN SU MESA*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/FS5UtHguuXFk.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '91ae56775199e658b5931f88ac3ce306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5e707c5-d30f-49ae-8b99-ecd393e744ee',
+  keyword: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  answer: '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    'La tradición de hacer pan en Italia🇮🇹 se remonta a miles de años atrás, \n' +
+    'con raíces en las civilizaciones etrusca, griega y romana. A lo largo de la historia,\n' +
+    'el pan ha sido un alimento básico en la dieta italiana y ha desempeñado un papel fundamental\n' +
+    'en la cultura y las costumbres del país.\n' +
+    'Es por ello que en FARINA, nos hemos esforzado en traerles la tradición en la elaboración\n' +
+    'del mejor pan de la región tachirénse.\n' +
+    'Pan de excelencia, elaborado con las mejores materias primas y el arte de nuestros maestros panaderos:\n' +
+    'Por ello podemos decir:\n' +
+    '🌟 *La tradición en cada mordisco: pan🥖 artesanal hecho con amor❤️ y pasión* 🌟\n' +
+    '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '769ad9e18ffc8fdeecb64fef321211e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: '1A11E945B687C8DFEFB47D8BF00400B5',
+    participant: undefined
+  },
+  messageTimestamp: 1714264317,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: '510F65FAD5ADECFFFE434D975B4FE940',
+    participant: undefined
+  },
+  messageTimestamp: 1714264339,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_65098eee-c11b-40fd-a9c8-6fca0ed1fe99',
+  keyword: 'key_aed612ed-90b6-4fb4-8032-371a51235a0e',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '14e521524d6d0248a52be11e245f7232'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904b6e66-93cf-4e27-9cbe-b78851ffcd85',
+  keyword: 'ans_66e12e5b-608e-481c-857d-007aa65d91a5',
+  answer: '*🍔 Pan de Hamburguesa - 1$, 4.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/Ude3uhuRvvo2.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef1825b047b7bee0f95c0b6b3e22b775'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b24e6bdc-b9e0-4f6c-8775-ef67e41f54a5',
+  keyword: 'ans_904b6e66-93cf-4e27-9cbe-b78851ffcd85',
+  answer: '*🫓 Pan Pita - 1$, 4.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/TpgyeuaqvhYr.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fe049c784f644fc76e7a5282cd421f4a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7b2ac47-b03a-4462-aeae-83c421e3c7a8',
+  keyword: 'ans_b24e6bdc-b9e0-4f6c-8775-ef67e41f54a5',
+  answer: '*🌭 Pan de Perro - 1.5 $, 6.000 cop*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/IPn9rulNd2dQ.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3bf294b5d7da23ea219559ae895455c0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f870f5c6-b448-4fe6-974b-c3848eb93b6f',
+  keyword: 'ans_e7b2ac47-b03a-4462-aeae-83c421e3c7a8',
+  answer: '*🥖 Pan Granjero - 1$, 4.000 cop*',
+  options: {
+    media: 'https://i.ibb.co/rvM30Ck/pan-granjero.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15ade01c4c8ab0a5652d9eeb156ae382'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b0dcb52-5cc2-4fb4-af3f-4b1afe0cfa21',
+  keyword: 'ans_f870f5c6-b448-4fe6-974b-c3848eb93b6f',
+  answer: '*🥖🎄 Pan de Jamón*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/Gjy1ONwKtxEx.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5f91174865cd98cc65ad5c22e32879a2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e18074eb-c213-4943-ac12-c167605db3bd',
+  keyword: 'ans_6b0dcb52-5cc2-4fb4-af3f-4b1afe0cfa21',
+  answer: '*🎂 Tortas Tradicionales*',
+  options: {
+    media: 'https://i.ibb.co/2Fxtk6n/torta.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '69178ff0e0134dfba6f82aa41e5ea51d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f289bab5-075e-45a6-a347-7abecb60ffa0',
+  keyword: 'ans_e18074eb-c213-4943-ac12-c167605db3bd',
+  answer: '📢 Escribe *pedido* para ordenar ó escribe *menú* para ir a principal!!! ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a092e243b5430ba04016ecd4c4bb0c19'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: '3408F15EF463E832DCD90C0F1EEA84A9',
+    participant: undefined
+  },
+  messageTimestamp: 1714264361,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f9126da2-6f18-46be-8e55-f50187a4d411',
+  keyword: 'key_7aecc39a-5bc5-4c0b-b4ca-a226404de32b',
+  answer: '😎 *Nuestro contacto - Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a44f07d8ee826d57ff95ba0c335af0a6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33561dd5-f5ef-42e2-820c-1df88b398f2e',
+  keyword: 'ans_f9126da2-6f18-46be-8e55-f50187a4d411',
+  answer: 'Para más información contáctanos a:\n' +
+    '\n' +
+    '📱 Teléfono  412-6523705\n' +
+    '🌐 Instagram:@farina.sc\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d5b65d1a37a7b6afb7e2867078fb3e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: '4DCB421EE06A730659CF3FF62CCAE586',
+    participant: undefined
+  },
+  messageTimestamp: 1714264367,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  keyword: 'key_032135a7-911c-4866-8ee9-37ce7b188628',
+  answer: '😎 INFORMACIÓN FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5e7e6a55c37ddb5355daf43f9e9b2fd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  keyword: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  answer: '*TRADICIÓN EN SU MESA*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/FS5UtHguuXFk.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '91ae56775199e658b5931f88ac3ce306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5e707c5-d30f-49ae-8b99-ecd393e744ee',
+  keyword: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  answer: '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    'La tradición de hacer pan en Italia🇮🇹 se remonta a miles de años atrás, \n' +
+    'con raíces en las civilizaciones etrusca, griega y romana. A lo largo de la historia,\n' +
+    'el pan ha sido un alimento básico en la dieta italiana y ha desempeñado un papel fundamental\n' +
+    'en la cultura y las costumbres del país.\n' +
+    'Es por ello que en FARINA, nos hemos esforzado en traerles la tradición en la elaboración\n' +
+    'del mejor pan de la región tachirénse.\n' +
+    'Pan de excelencia, elaborado con las mejores materias primas y el arte de nuestros maestros panaderos:\n' +
+    'Por ello podemos decir:\n' +
+    '🌟 *La tradición en cada mordisco: pan🥖 artesanal hecho con amor❤️ y pasión* 🌟\n' +
+    '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '769ad9e18ffc8fdeecb64fef321211e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: '93B69B0067493472A5EA0B1D07C11B00',
+    participant: undefined
+  },
+  messageTimestamp: 1714264378,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bf64d456-7052-4015-89a4-d3770b710d3c',
+  keyword: 'key_14df20eb-6176-4945-8bd0-ede15459ccb9',
+  answer: '😎 INFORMACIÓN UBUCACION FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4b7baa921c8e400c629e0e7a99da7527'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57a25e07-1a33-4e16-b33d-ace4a5b6773f',
+  keyword: 'ans_bf64d456-7052-4015-89a4-d3770b710d3c',
+  answer: 'Farina Pan Artesanal\n' +
+    '\n' +
+    ' 🗺️ *No1 vereda 12, Av. Principal Unidad Vecinal* 🗺️\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5e50ada0e0aebf2f1583b951a3a9108'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA0EC7865DFAD82417B62BC949283C4D',
+    participant: undefined
+  },
+  messageTimestamp: 1714264438,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140857670@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA4694A204E21AF84CB9DA0810948873',
+    participant: undefined
+  },
+  messageTimestamp: 1714264448,
+  pushName: 'Maru🐺',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/381475238_1107034410348596_6715833067368954279_n.enc?ccb=11-4&oh=01_Q5AaIOt_JT49OOGi3_Q8GWF_1YBTTmNbxlt6MHgZy2B5z0tT&oe=6655215C&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/381475238_1107034410348596_6715833067368954279_n.enc?ccb=11-4&oh=01_Q5AaIOt_JT49OOGi3_Q8GWF_1YBTTmNbxlt6MHgZy2B5z0tT&oe=6655215C&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 2428,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__4f494c5f-e681-4ba4-afab-1e6a9769f133',
+  from: '584140857670'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  keyword: 'key_032135a7-911c-4866-8ee9-37ce7b188628',
+  answer: '😎 INFORMACIÓN FARINA 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5e7e6a55c37ddb5355daf43f9e9b2fd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  keyword: 'ans_0fb49c70-ceb8-4fda-841d-9413726a6f7a',
+  answer: '*TRADICIÓN EN SU MESA*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/FS5UtHguuXFk.jpg?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '91ae56775199e658b5931f88ac3ce306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5e707c5-d30f-49ae-8b99-ecd393e744ee',
+  keyword: 'ans_372a666f-51d0-4783-b311-2393749790ed',
+  answer: '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    'La tradición de hacer pan en Italia🇮🇹 se remonta a miles de años atrás, \n' +
+    'con raíces en las civilizaciones etrusca, griega y romana. A lo largo de la historia,\n' +
+    'el pan ha sido un alimento básico en la dieta italiana y ha desempeñado un papel fundamental\n' +
+    'en la cultura y las costumbres del país.\n' +
+    'Es por ello que en FARINA, nos hemos esforzado en traerles la tradición en la elaboración\n' +
+    'del mejor pan de la región tachirénse.\n' +
+    'Pan de excelencia, elaborado con las mejores materias primas y el arte de nuestros maestros panaderos:\n' +
+    'Por ello podemos decir:\n' +
+    '🌟 *La tradición en cada mordisco: pan🥖 artesanal hecho con amor❤️ y pasión* 🌟\n' +
+    '\n' +
+    '✨✨✨✨✨✨✨✨✨✨✨\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '769ad9e18ffc8fdeecb64fef321211e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584164809299@s.whatsapp.net',
+    fromMe: false,
+    id: '2B050B1B4E65B04AC733ED2C2A0FD5FA',
+    participant: undefined
+  },
+  messageTimestamp: 1714265013,
+  pushName: 'Andrea Cañizales',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584164809299'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584164809299@s.whatsapp.net',
+    fromMe: false,
+    id: '2B050B1B4E65B04AC733ED2C2A0FD5FA',
+    participant: undefined
+  },
+  messageTimestamp: 1714265108,
+  pushName: 'Andrea Cañizales',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584164809299'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584164809299@s.whatsapp.net',
+    fromMe: false,
+    id: '2B050B1B4E65B04AC733ED2C2A0FD5FA',
+    participant: undefined
+  },
+  messageTimestamp: 1714265210,
+  pushName: 'Andrea Cañizales',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584164809299'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  keyword: 'key_9227b000-3a93-403a-a79e-739bdda506b3',
+  answer: '🙌 Hola!!! Soy el *ChatBot Farina*',
+  options: {
+    media: 'https://gcdnb.pbrd.co/images/ATqxdS2oMbBr.png?o=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02892a2870613d91a1b5786465a3b069'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1836090c-8f5e-47a8-ba76-2334451740c6',
+  keyword: 'ans_c406d15b-02fc-4569-a312-d3560e0a81cb',
+  answer: 'Hola!!! 😀 Escoge una de las opciones indicadas:\n' +
+    ' Escoge una de las siguientes opciones (*1*, *2*, *3*, *4*, *5*, *0*): \n' +
+    ' \n' +
+    '👉  *1* ) ¿ Quiénes somos ?\n' +
+    '👉  *2* ) ¿ Dónde nos ubicamos ?\n' +
+    '👉  *3* ) Nuestros productos\n' +
+    '👉  *4* ) Para ordenar\n' +
+    '👉  *5* ) Contáctanos\n' +
+    '👉  *0* ) Salir 🏆\n' +
+    '\n' +
+    'Escribe *ayuda* ó *menú* para regresar a principal 🙋‍♂️\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb59ade5e7c3611439e92bb8ba5da783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584164809299@s.whatsapp.net',
+    fromMe: false,
+    id: '66FD2471F56A6DE07A1B50F11ABDE579',
+    participant: undefined
+  },
+  messageTimestamp: 1714266836,
+  pushName: 'Andrea Cañizales',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584164809299'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  keyword: 'key_2b5bf5bd-1a29-4e8c-901d-61c670c83d10',
+  answer: '😎 *Productos Panadería Artesanal FARINA* 😎',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8698ed637c7a4f0249499d4d0985050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_071b2eff-caaf-4533-8423-b0ae734295c6',
+  keyword: 'ans_40cb09b8-a1fd-4048-a30a-d12b50194227',
+  answer: 'HAS TU PEDIDO EN EL SIGUIENTE LINK\n' +
+    '\n' +
+    ' 👉 *https://forms.gle/VeVMheoMxQ8fYRjz9* \n' +
+    '\n' +
+    '*💵 Pago móvil*\n' +
+    '*Banco Provincial - 04126521778*\n' +
+    '*Banco de Venezuela - 14041796*\n' +
+    '\n' +
+    '📢 Recuerda, escribe *opciones* ó *menú* para ir a principal!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dea33e694c3a95ffce0545e32c3a0f1'
+}
